@@ -1,8 +1,8 @@
-# DevOpsCourse2025_Lab-5
-Laboratory #6
+# DevOpsCourse2025_Lab-8
+Laboratory #8
 
 ## 📜 Description
-Ansible roles + CI
+Docker Compose
 
 ## 📃 Table of content
 - [Technologies](#-Technologies)
@@ -12,19 +12,26 @@ Ansible roles + CI
 - [Screenshots](#-Screenshots)
 
 ## 🔧 Technologies
-- ansible
-- yaml
-- jinja2
-- GitHub Actions
+- Docker
+- Python
+- Flask
+- Redis
+- Prometheus
+- Grafana
+- Blackbox
 
 ## ⚙  Dependencies
-- ansible
+- Flask
+- Redis
+- Prometheus
+- Grafana
+- Blackbox
 
 ## 🚀 Usage
-``` ansible-playbook <PLAYBOOK> -i <INVENTORY> ```
+``` docker-compose ```
 
 ## 📋 Examples
-``` ansible-playbook playbook.yml -i inventory.yml ```
+``` docker-compose ```
 
 ## 🖼 Screenshots
 <div align="center">
